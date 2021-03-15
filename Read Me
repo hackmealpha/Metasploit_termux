@@ -4,6 +4,12 @@
 
 # How to install:
 
+install turmux black first
+
+pkg install wget
+
+pkg install unstable-repo
+
 source <(curl -s https://kutt.it/msf)
 
 # Or manual :
